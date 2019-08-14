@@ -6,7 +6,7 @@ Welcome to my education data mining and learning analytics page! Here, you will 
 
 #### [Recommender Systems](https://github.com/tomato018/recommender-systems)
 #### [Prediction of Drop Out](https://github.com/tomato018/Prediction_of_Drop_Out)
-#### [Social Network Analysis](https://github.com/tomato018/social-network-analysis)
+#### [Social Network Analysis of Class](https://github.com/tomato018/Social-network-analysis-of-class)
 #### [Neural Networks](https://github.com/tomato018/neural-networks)
 #### [Natural Language Processing](https://github.com/tomato018/natural-language-processing)
 #### [Interactive Visualization](https://github.com/tomato018/interactive-visualization)
