@@ -11,4 +11,4 @@ Welcome to my education data mining and learning analytics page! Here, you will 
 #### [Natural Language Processing](https://github.com/tomato018/Natural_Language_Processing)
 #### [Interactive Visualization](https://github.com/tomato018/Interactive_Visualization)
 #### [Loop Closing as Decision Making](https://github.com/tomato018/Loop-Closing-As-Decision-Making)
-#### [Final Mystery Unit-Tweets and Score Data]
+#### [Final Mystery Unit-Tweets and Score Data](https://github.com/tomato018/Tweet-and-Score-Data)
