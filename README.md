@@ -8,6 +8,6 @@ Welcome to my education data mining and learning analytics page! Here, you will 
 #### [Prediction of Drop Out](https://github.com/tomato018/Prediction_of_Drop_Out)
 #### [Social Network Analysis of Class](https://github.com/tomato018/Social-network-analysis-of-class)
 #### [Neural Networks](https://github.com/tomato018/Neural_Networks)
-#### [Natural Language Processing](https://github.com/tomato018/natural-language-processing)
+#### [Natural Language Processing](https://github.com/tomato018/Natural_Language_Processing)
 #### [Interactive Visualization](https://github.com/tomato018/interactive-visualization)
 #### [Loop Closing](https://github.com/tomato018/loop-closing)
